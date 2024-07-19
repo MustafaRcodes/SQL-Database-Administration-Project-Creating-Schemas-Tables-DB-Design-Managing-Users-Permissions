@@ -11,3 +11,6 @@ The Objective:
 2) Use my  knowledge of database best practices to implement and optimize database design principles.
 3) Update records, create indexes, triggers, and stored procedures, and manage users and permissions.
 
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/a8906fc5-6e1e-4d6c-9d5b-f080e33046b5">
+
+
